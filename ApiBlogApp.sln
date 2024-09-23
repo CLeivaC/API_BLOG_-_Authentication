@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiBlog", "ApiBlog\ApiBlog.csproj", "{8F9C92E9-AE7B-4871-BA58-2E0805AC2B78}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorLlamarAPIPost", "D:\Users\Usuario\Programs_VisualStudio\source\repos\BlazorLlamarAPIPost\BlazorLlamarAPIPost\BlazorLlamarAPIPost.csproj", "{0D693314-397F-4B3A-8BE8-0521E837BC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F9C92E9-AE7B-4871-BA58-2E0805AC2B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9C92E9-AE7B-4871-BA58-2E0805AC2B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9C92E9-AE7B-4871-BA58-2E0805AC2B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9C92E9-AE7B-4871-BA58-2E0805AC2B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D693314-397F-4B3A-8BE8-0521E837BC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D693314-397F-4B3A-8BE8-0521E837BC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D693314-397F-4B3A-8BE8-0521E837BC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D693314-397F-4B3A-8BE8-0521E837BC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0821DD7B-BFB2-4552-BC13-D348851EC8AD}
+	EndGlobalSection
+EndGlobal

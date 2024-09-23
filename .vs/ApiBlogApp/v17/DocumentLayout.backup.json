@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\CursoBlazor\\ApiBlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D693314-397F-4B3A-8BE8-0521E837BC28}|D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost.csproj|d:\\users\\usuario\\programs_visualstudio\\source\\repos\\blazorllamarapipost\\blazorllamarapipost\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D693314-397F-4B3A-8BE8-0521E837BC28}|D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost.csproj|d:\\users\\usuario\\programs_visualstudio\\source\\repos\\blazorllamarapipost\\blazorllamarapipost\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D693314-397F-4B3A-8BE8-0521E837BC28}|D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost.csproj|d:\\users\\usuario\\programs_visualstudio\\source\\repos\\blazorllamarapipost\\blazorllamarapipost\\pages\\detallespost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D693314-397F-4B3A-8BE8-0521E837BC28}|D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost.csproj|d:\\users\\usuario\\programs_visualstudio\\source\\repos\\blazorllamarapipost\\blazorllamarapipost\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D693314-397F-4B3A-8BE8-0521E837BC28}|D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost.csproj|d:\\users\\usuario\\programs_visualstudio\\source\\repos\\blazorllamarapipost\\blazorllamarapipost\\pages\\posts\\compeditarpost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D693314-397F-4B3A-8BE8-0521E837BC28}|D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost.csproj|d:\\users\\usuario\\programs_visualstudio\\source\\repos\\blazorllamarapipost\\blazorllamarapipost\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D693314-397F-4B3A-8BE8-0521E837BC28}|D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost.csproj|d:\\users\\usuario\\programs_visualstudio\\source\\repos\\blazorllamarapipost\\blazorllamarapipost\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D693314-397F-4B3A-8BE8-0521E837BC28}|D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost.csproj|d:\\users\\usuario\\programs_visualstudio\\source\\repos\\blazorllamarapipost\\blazorllamarapipost\\pages\\redireccionaralacceso.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-22T18:13:40.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T18:09:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetallesPost.razor",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Pages\\DetallesPost.razor",
+              "ToolTip": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Pages\\DetallesPost.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T17:54:59.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompEditarPost.razor",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Pages\\Posts\\CompEditarPost.razor",
+              "ToolTip": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Pages\\Posts\\CompEditarPost.razor",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T17:54:23.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Pages\\Home.razor",
+              "ToolTip": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Pages\\Home.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T17:40:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedireccionarAlAcceso.razor",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Pages\\RedireccionarAlAcceso.razor",
+              "ToolTip": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Pages\\RedireccionarAlAcceso.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T17:37:51.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T17:37:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\App.razor",
+              "ToolTip": "D:\\Users\\Usuario\\Programs_VisualStudio\\source\\repos\\BlazorLlamarAPIPost\\BlazorLlamarAPIPost\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T17:37:30.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
